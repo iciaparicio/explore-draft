@@ -20,9 +20,9 @@ No pasa nada. Si hay alguna categoría que no necesitas no la uses. En ese caso 
 
 ### ¿Puedo usar solo una categoría para todo mi contenido?
 
-No, necesitas usar al menos 3 categorías de las propuestas. Piensa que si solo usas 1 o 2 categorías el contenido que muestras al usuario es prácticamente el mismo.
+No, necesitas usar al menos 3 categorías de las propuestas. Piensa que con 1 o 2 categorías esta funcionalidad no tiene sentido porque el contenido filtrado sería igual que sin filtrar.
 
-De todos modos seguro que tienes un contenido muy interesante para usar al menos esas 3 categorías. De hecho la recomendación es que uses entre 3 y 5 categorías. Eso hará que la experiencia del usuario al usar Explore mejore considerablemente.
+De todos modos seguro que tienes un contenido muy interesante para usar al menos 3 categorías, que son las mínimas para que la funcionalidad tenga sentido. De hecho la recomendación es que uses entre 3 y 5 categorías. Eso hará que la experiencia del usuario al usar Explore mejore considerablemente.
 
 ### ¿Puedo cambiar el orden en el que se van a mostrar las categorías en Explore?
 

@@ -17,9 +17,9 @@ En Explore CMS selecciona la categoría o las categorías que aplican a la card 
 * **Devices**. Dispositivos: smartphones, tablets.
 * **Loyalty**. Fidelización: membresía, contenido de programas de loyalty/fidelización \(Valoriza, Priority, Club Movistar…\)
 * **Promos**. Promociones: Contenido promocional que pueda encajar y que es posible que incluso pueda convivir con otras categorías.
-* **Plans**. Planes: Tarifas, actualizaciones, planes de precios.
-* **Services**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
-* **TV**. Televisión: planes de televisión, contenido destacado.
+* **Plans**. Planes: Tarifas, upgrades de planes.
+* **Services**. Servicios: servicios de valor añadido, apps, nuevas funcionalidades de apps, otros servicios de TEF. 
+* **TV**. Televisión: planes de televisión, paquetes de contenido, contenido destacado o nuevo.
 
 {% hint style="info" %}
 La categoría **All**, que es la primera que se visualiza, no es una categoría como tal sino que es la forma que tiene el usuario de ver todo el contenido.
